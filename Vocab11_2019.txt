@@ -313,179 +313,188 @@ séance			[n]降神会，会议
 doorframe		[n]门框
 hue				[n]色彩，色度，色调
 strum			[v]漫不经心地弹拨；[n]一下弹奏
-defraud			欺骗
-preen			打扮，赞扬，洋洋自得，整理羽毛
-latrine			公共厕所
-heresy			异端，异教
-firmament		天空，苍天，某个领域或活动区域
+defraud			[v]欺骗，通过欺骗获取
+preen			[v]打扮，赞扬；洋洋自得；整理羽毛
+primp			[v]精心仔细地打扮；试镜
+latrine			[n]公共厕所
+convenience		[n]厕所；合适的时间；[a]为便于使用设计的
+lavatory		[n]厕所；洗手间
+potty			[a]不重要的；[n]（小孩用的）厕所；厕所
+heresy			[n]异端，异教
+conformity		[n]顺服
+firmament		[n]天空，苍天，某个领域或活动区域
 exempli gratia	例如
 whatsoever		无论什么
 utmost			极度，最大可能
-severity		严重程度
-mead			蜂蜜酒，草地
-bald			秃顶的；变秃
-perpetrator		犯罪者，行凶者
-perpetual		四季开花的，永久的
-inquire			询问，查究
-holler			发牢骚，大喊
-preacher		传道士
-preach			说教，讲道
-slink			潜逃，逃走
-affix			粘上，署名，加罪责于；词缀
-jerkin			无袖外套，坎肩
-lovesick		苦恋的
-beau			花花公子
-countess		伯爵夫人
-dockside		码头旁边
-skinflint		吝啬鬼
-flint			燧石，火石，很硬的东西
-en garde		警戒，预备，防守
-scarecrow		稻草人
+severity		[n]严重程度
+mead			[n]蜂蜜酒；草地
+bald			[a]秃顶的；[v]变秃
+perpetrator		[n]犯罪者，行凶者
+perpetual		[a]四季开花的，永久的
+ceaseless		[a]不停止的
+inquire			[v]询问，查究
+holler			[v]发牢骚，大喊
+preacher		[n]传道士
+preach			[v]说教，讲道
+slink			[v]潜逃，逃走；偷走；（饲养的动物）提前产子；[n]提前于孕期的产子；[a]未成的生子或堕胎的
+pussyfoot		[v]谨慎前行；控制自己的投入程度
+affix			[v]粘上，署名，加罪责于；[n]词缀
+jerkin			[n]无袖外套，坎肩
+lovesick		[a]苦恋的
+beau			[n]花花公子；男朋友
+swain			[n]乡下人；牧羊人；男性爱慕者
+countess		[n]伯爵夫人
+dockside		[a][adv]码头旁边
+skinflint		[n]吝啬鬼
+flint			[n]燧石，火石，很硬的东西
+en garde		<<French>>警戒，预备，防守
+scarecrow		[n]稻草人；吓人但是没有伤害的东西；破烂或非常瘦的人
 smatter			[v]略知一二，涉猎;[n]一点点
-prattle			闲聊，胡说
-plaudit			大声喝彩
-réclame			演戏或宣传技巧，公众赞扬
-bloke			家伙，小子
-squatter		占据财产但没有权力或职位或付租金的人，大牧羊场场主；淌水走过
-especial		特殊的
-nuisance		讨厌的人，麻烦事
-hangover		宿醉，残留物
-beget			产生，招致，引起，当......的父亲
-catalyze		产生，发生分解反应
-draw on			产生，招致，（黑夜）到来
-effectuate		产生效果
-beset			困扰，围攻，镶嵌
-harrow			掠夺
-finesse			偷牌，巧妙处理，施展巧计；灵巧的策略
-ovation			热烈欢迎
-gob				凝块，水兵
-yokel			乡巴佬
-pugilist		拳击手
-conceit			自负，狂妄；幻想
-coot			傻瓜，笨蛋
-trobairitz		女吟游诗人
-chorister		唱诗班指挥
-barge			驳船，大型货船；蓄意冲撞
-cruise			巡航，迅游，乘船游览
-extol			赞扬，吹捧
-carol			古老的有伴唱的圆形舞，快乐的歌声；欢快地唱
-mirth			快乐或被笑声陪伴
-jovial			快乐的
-jocund			快乐的
-resound			回声，赞扬
-skyward			向天空的；朝天
-stallion		种马
-thereupon		因此
-betwixt			在......之间
-nemesis			报应
-lather			肥皂泡；使激动，狠打
-foam			泡沫
-froth			泡沫
-dither			
-chinny			爱说话的人
-granite			花岗岩，冷酷无情
-turnaround		彻底改变，转机
-sully			玷污，使丢脸
-wench			少妇，乡下姑娘；通奸
-clobber			击败，痛打；还草胺除草剂
-trollop			妓女，堕落的女人
-sudsy			肥皂般的，起泡沫的
-huff			愤怒
-corset			（妇女用的）紧身外套；严格控制
-squabble		大声争吵
-bate			使软化，减弱，压制；愤怒状态
-ruckus			喧闹，骚动
-morsel			一口，少量（食物）
-wherewithal		用以；必要的资金
-mayfly			蜉蝣
-triumvirate		三人领导小组
-scoff			嘲笑，狼吞虎咽；笑柄，口粮
-daisy			雏菊；极好的，上等的
+prattle			[v][n]闲聊，胡说；像小孩一样说
+prate			[v]漫长无目的地说
+plaudit			[n]大声喝彩
+réclame			[n]<<French>>演戏或宣传技巧，公众赞扬
+bloke			[n]家伙，小子
+squatter		[n]占据财产但没有权力或职位或付租金的人，大牧羊场场主；[v]淌水走过
+especial		[a]特殊的
+nuisance		[n]<<French>>讨厌的人，麻烦事
+hangover		[n]宿醉；残留物
+beget			[v]产生，招致，引起，当......的父亲
+catalyze		[v]产生；发生分解反应
+draw on			产生；招致；（黑夜）到来
+effectuate		[v]产生效果
+beset			[v]困扰，围攻；镶嵌
+harrow			[v]掠夺
+finesse			[v]偷牌；巧妙处理，施展巧计；[n]灵巧的策略
+ovation			[n]热烈欢迎
+gob				[n]凝块，水兵
+yokel			[n]乡巴佬
+pugilist		[n]拳击手
+conceit			[n]自负，狂妄；[v]幻想
+coot			[n]傻瓜，笨蛋
+trobairitz		[n]女吟游诗人
+chorister		[n]唱诗班指挥
+barge			[n]驳船，大型货船；[v]蓄意冲撞
+cruise			[n]巡航，迅游，乘船游览
+extol			[v]赞扬，吹捧
+carol			[n]古老的有伴唱的圆形舞，快乐的歌声；[v]欢快地唱
+mirth			[n]快乐或被笑声陪伴
+jovial			[a]快乐的
+jocund			[a]快乐的
+resound			[n]回声；赞扬
+skyward			[a]向天空的；[adv]朝天
+stallion		[n]种马
+thereupon		[adv]因此
+betwixt			[prep]在......之间
+nemesis			[n]（复数~ses）报应；苦痛
+lather			[n]肥皂泡；[v]使激动，狠打
+foam			[n]泡沫
+froth			[n]泡沫
+dither			[v]颤抖；[n]兴奋，迷惑
+chinny			[n]爱说话的人
+granite			[n]花岗岩；冷酷无情
+turnaround		[n]彻底改变，转机
+sully			[v]玷污，使丢脸
+wench			[n]少妇，乡下姑娘；通奸
+clobber			[v]击败，痛打；[n]还草胺除草剂
+trollop			[n]妓女，堕落的女人
+sudsy			[a]肥皂般的，起泡沫的
+huff			[n]愤怒
+corset			[n]（妇女用的）紧身外套；严格控制
+squabble		[v]大声争吵
+bate			[v]使软化，减弱，压制；[n]愤怒状态
+ruckus			[n]喧闹，骚动
+morsel			[n]一口，少量（食物）
+wherewithal		[prep]用以；[n]必要的资金
+mayfly			[n]蜉蝣
+triumvirate		[v]三人领导小组
+scoff			[v]嘲笑，狼吞虎咽；[n]笑柄，口粮
+daisy			[n]雏菊；极好的，上等的
 snuck			
-tuck			食物，船尾；卷进，藏起，大口吃，舒适地裹住
-fortuneteller	算命者
-barney			大声争吵
-prance			昂首阔步，（马）后足立地腾跃
-whereabouts		下落；在何方
-knack			诀窍，本领
-grind			磨碎，折磨；苦活
-hallowed		神圣化的
-knicker			女式短裤
-nowt			恶人，公牛
-townhouse		城市连体房屋
-payback			偿付，报复
-trombone		长号
-lute			琵琶
-mandolin		琵琶乐器
-truss			构架；捆绑
-prickly			易怒的，多刺的
-irritable		过敏的，急躁的
-menopause		更年期，绝经期
-unbearable		难以忍受的
-topaz			黄玉
-whiff			臭味，一点，（高尔夫，棒球）挥空棒；发臭，闻，喷出
-sleuth			侦探，警犬；侦查
-stiff			呆板的，坚硬的，僵硬的，严厉的，（酒）烈的；死尸，令人讨厌的人；诈骗
-spore			孢子
-lummox			笨蛋，不中用的人
-horrendous		可怕的，惊人的
-burp			打嗝
-ulcer			溃疡，腐败
-goblet			酒杯，高脚杯
-warp			弯曲，偏见；曲解
-congregate		聚集
-quote			引述，报价，作证
-lid				盖子，眼睑；盖盖子
-fateful			重大的，决定性的
+tuck			[n]食物，船尾；卷进，藏起，大口吃，舒适地裹住
+fortuneteller	[n]算命者
+barney			[n]大声争吵
+prance			[v]昂首阔步，（马）后足立地腾跃
+whereabouts		[n]下落；[adv]在何方
+knack			[n]诀窍，本领
+grind			[v]磨碎，折磨；[n]苦活
+hallowed		[a]神圣化的
+knicker			[n]女式短裤
+nowt			[n]恶人，公牛
+townhouse		[n]城市连体房屋
+payback			[n]偿付，报复
+trombone		[n]长号
+lute			[n]琵琶
+mandolin		[n]琵琶乐器
+truss			[n]构架；[v]捆绑
+prickly			[a]易怒的，多刺的
+irritable		[a]过敏的，急躁的
+menopause		[n]更年期，绝经期
+unbearable		[a]难以忍受的
+topaz			[n]黄玉
+whiff			[n]臭味，一点，（高尔夫，棒球）挥空棒；[v]发臭，闻，喷出
+sleuth			[n]侦探，警犬；[v]侦查
+stiff			[a]呆板的，坚硬的，僵硬的，严厉的，（酒）烈的；[n]死尸，令人讨厌的人；[v]诈骗
+spore			[n]孢子
+lummox			[n]笨蛋，不中用的人
+horrendous		[a]可怕的，惊人的
+burp			[v]打嗝
+ulcer			[n]溃疡，腐败
+goblet			[n]酒杯，高脚杯
+warp			[n]弯曲，偏见；曲解
+congregate		[v]聚集
+quote			[n]引述；报价；作证
+lid				[n]盖子，眼睑；盖盖子
+fateful			[a]重大的，决定性的
 archmagnificency		
-chapel			小教堂，礼拜
-barracks		兵营
-gristly			软骨的
-blackguard		恶棍；粗鄙的
-wherein			在其中
-juggle			玩戏法，欺骗
-thataway		按指示，朝那个方向
-wagon			马车
-pointy			尖的
-trot			慢跑；小步
+chapel			[n]小教堂，礼拜
+barracks		[n]兵营
+gristly			[a]<<biology>>软骨的
+blackguard		[n]恶棍；[a]粗鄙的
+wherein			[adv][prep]在其中
+juggle			[v]玩戏法，欺骗
+thataway		[adv]按指示，朝那个方向
+wagon			[n]马车
+pointy			[a]尖的
+trot			[v]慢跑；[n]小步
 movable			
-oaf				呆子，白痴，畸形儿
-sloven			懒散的人，不修边幅的人
-feud			争执
-clad			穿衣的，金属保护层
-cutthroat		残酷的；凶手
-desecration		亵渎
-serenade		小夜曲
-mainspring		丰富动力，主发条
-developmental	发展的，启发的
-ginger			姜；用姜调味，使有活力
-squeal			尖叫，（向警方）告密
-squirm			蠕动，不舒服
-mores			习俗，道德理念
-townsfolk		市民，镇民
-spectacle		场景，演出
-lining			内层
-flock			群，棉束
-tryst			幽会
-minstrel		歌手，艺人，吟游诗人
-eunuch			太监
-soak			吸入，浸泡
-heinous			可憎的，十恶不赦的
-denizen			给居住权；常客，外来语
-lousy			讨厌的，污秽的
-panache			羽饰，耍派头
-lode			矿脉
-sturdy			坚定的，强健的
-lullaby			摇篮曲
-pinewood		松木，松林
-pine			松树，凤梨，菠萝；渴望，哀悼
-boatwright		造船工人
-snot			流鼻涕
-snotter			鼻涕
-whimper			呜咽，啜泣；呜咽声，啜泣声
-cadaverine		尸胺，1，5-戊二胺
+oaf				[n]呆子，白痴，畸形儿
+sloven			[n]懒散的人，不修边幅的人
+feud			[n]争执
+clad			[a]穿衣的；[n]金属保护层
+cutthroat		[a]残酷的；[n]凶手
+desecration		[n]亵渎
+serenade		[n]小夜曲
+mainspring		[n]丰富动力，主发条
+developmental	[a]发展的，启发的
+ginger			[n]姜；[v]用姜调味；使有活力
+squeal			[n]尖叫；（向警方）告密
+squirm			[n]蠕动；不舒服
+mores			[n]习俗，道德理念
+townsfolk		[n]市民，镇民
+spectacle		[n]场景；演出
+lining			[n]内层
+flock			[n]群；棉束
+tryst			[n]幽会
+minstrel		[n]歌手，艺人，吟游诗人
+eunuch			[n]太监
+soak			[v]吸入，浸泡
+heinous			[a]可憎的，十恶不赦的
+denizen			[v]给居住权；[n]常客；外来语
+lousy			[a]讨厌的，污秽的
+panache			[n]<<French>>羽饰；耍派头
+lode			[n]矿脉
+sturdy			[a]坚定的，强健的
+lullaby			[n]摇篮曲
+pinewood		[n]松木，松林
+pine			[n]松树，凤梨，菠萝；[v]渴望，哀悼
+boatwright		[n]造船工人
+snot			[v]流鼻涕
+snotter			[n]鼻涕
+whimper			[n]呜咽，啜泣；呜咽声，啜泣声
+cadaverine		[n]尸胺，1，5-戊二胺
 overripe		过熟的
-zounds			int. 咒骂声
+zounds			[interj]咒骂声
 flail			乱动，猛击；连枷
 wrapping		包装纸
 granary			谷仓
@@ -499,7 +508,7 @@ untouched		未受影响的
 unmatched		无与伦比的，无可匹敌的
 crumb			面包屑；弄碎，捏碎
 sensory			感觉的，知觉的
-fondue			[n]<<dietetics>>溶化奶油，干酪，芝士火锅
+fondue			[n]<<French>><<dietetics>>溶化奶油，干酪，芝士火锅
 grana padano	[n]<<dietetics>>波河干奶酪
 kestrel			茶隼，小鹰
 marble			大理石；冷酷无情的
@@ -1305,7 +1314,7 @@ Hollandaise		[n]<<dietetics>>用奶油/蛋黄和酸味剂（柠檬或醋）做�
 flatbread		[n]<<dietetics>>面包干
 matzo			[n]<<dietetics>>犹太逾越节期间吃的不发酵的面饼
 griddle			矿筛，煎饼用的锅；煎
-injera			埃塞俄比亚发酵白面包
+injera			[n]<<dietetics>>埃塞俄比亚发酵白面包
 Amharic			埃塞俄比亚官方语言
 Malay			马来语
 jettison		为减轻重量而丢弃，由于其他的决策而丢弃多余的东西或累赘
@@ -1362,7 +1371,7 @@ viceroy			有统治权的省长或总统
 tulip			郁金香
 turban			穆斯林的头巾
 facet			问题的方面，切割的宝石的一个小平面，划好界限的平缓表面
-ommatidium		（昆虫）小眼
+ommatidium		[n]<<entomology>>（昆虫）小眼
 spew			呕吐，以洪水的形式大量涌现，像受到压力一样漏出；呕吐物，漏出物
 spout			以流的形式喷射液体，流畅地说或表达，慷慨陈词；用于流液体的管子或容器，排水口
 waterspout		排水口
@@ -1400,7 +1409,7 @@ temerity		轻率，对危险或反对无理由或愚蠢的藐视
 audacity		轻率（不顾惯例或谨慎的束缚）
 effrontery		厚颜无耻，不讲礼貌
 saucy			鲁莽的，傲慢的
-pierogi			半圆形小酥饼
+pierogi			[n]<<dietetics>>半圆形小酥饼
 ruffian			恶棍，流氓
 bemoan			惋惜，叹息
 bewail			哀悼，痛哭
@@ -1463,11 +1472,11 @@ succinct		简洁的
 eyepiece		目镜
 lens			镜头
 telecast		电视广播
-gaffer			乡下老头
-booty			战利品，赃物
-incandescent	白炽灯；辉煌的，炙热的
-miscast			角色分配不当
-oeuvre			全部作品，毕生之作
+gaffer			[n]乡下老头
+booty			[n]战利品，赃物
+incandescent	[n]白炽灯；辉煌的，炙热的
+miscast			[n]角色分配不当
+oeuvre			[n]<<French>>全部作品，毕生之作
 phosphorus		[n]<<chemistry>>磷
 reservoir		水库，蓄水池
 silt			淤泥
@@ -1973,7 +1982,7 @@ mangle
 shove			
 tendril			[n]卷须，蔓 
 doorstep		[n]门阶
-crèam blûrée	[n]焦糖布丁
+crème brûlée	[n]<<dietetics>><<French>>焦糖布丁
 trove			[n]宝藏，宝库
 fiddle			[n]小提琴
 swaddle			[n]襁褓，绷带；[v]束缚，裹住
@@ -2052,22 +2061,22 @@ clearance		[n]清理，清洁，肾清除率
 pinpoint		[n]非常小或微不足道的东西，针尖，尖锐的小东西；[a]非常精确的，非常细小的
 burrito			[n]<<dietetics>><<Mexican>>
 egotistical		
-ulcerative tinea pedis		[n]溃疡性脚癣
+ulcerative tinea pedis		[n]<<medical>>溃疡性脚癣
 chlamydia		[n]<<biology>>衣原体
-lumbar			[n][a]腰，腰神经，腰动脉
-heparin			[n]肝素
+lumbar			[n][a]<<biology>>腰，腰神经，腰动脉
+heparin			[n]<<medical>>肝素
 aneurysm		[n]<<medical>>动脉瘤
 resect			[v]切除
 rejuvenation	[n]使恢复活力，返老还童
-circumcise		[v]割包皮
+circumcise		[v]<<medical>>割包皮
 prepuce			[n]<<anatomy>>包皮
 clitoris		[n]<<anatomy>>阴蒂
 labia minora	[n]<<anatomy>>小阴唇
 metacarpophalangeal		[a]<<anatomy>>掌骨和指骨的
 metacarpal		[n][a]<<anatomy>>掌骨
-genitalia		[n]外部生殖器官
-metastatic		[a]（肿瘤）转移的
-lesion			[n]损害，病变
+genitalia		[n]<<medical>>外部生殖器官
+metastatic		[a]<<medical>>（肿瘤）转移的
+lesion			[n]<<medical>>损害，病变
 jejunum			[n]<<anatomy>>空肠
 tenotomy		[n]<<medical>>腱切割术
 discretionary	[a]由个人想法决定的
@@ -2075,15 +2084,15 @@ fallout			[n]放射性微尘，持续性后果
 fall out		[v]争吵，结果是，在排名中弃权，脱落
 oblate			[a]扁圆的，奉为神圣的
 dweeb			[n]白痴，笨蛋
-masseter		[n]咬肌
-celiac			[a]腹腔的
-priapism		[n]阴茎异常勃起
+masseter		[n]<<medical>>咬肌
+celiac			[a]<<medical>>腹腔的
+priapism		[n]<<medical>>阴茎异常勃起
 condominium		[n]公寓
 spasm			[n]痉挛
 flextime		[n]弹性工作时间
 arraign			[v]在法庭上对被告提问，控告
-senora			[n]夫人
-forcep			[n]钳子 
+señora			[n]夫人
+forcep			[n]钳子
 calcaneus		[n]<<anatomy>>跟骨
 cervical		[a]<<anatomy>>颈的，子宫颈的
 fistula			[n]<<anatomy>>瘘管
@@ -2130,9 +2139,9 @@ tic				[n]<<medical>>抽搐，痉挛
 eye orbit		[n]眼眶
 thrombus		[n]<<medical>>血栓
 embolus			[n]<<pathology>>栓子
-hyperplasia		[n]增生
+hyperplasia		[n]<<medical>>增生
 pedophile		[n]恋童癖者
-ligament		[n]韧带
+ligament		[n]<<anatomy>>韧带
 reprehensive	[a]斥责的
 vascular		[a]<<medical>>血管的
 angina			[n]<<medical>>心绞痛
@@ -2179,8 +2188,8 @@ appendectomy	[n]<<medical>>阑尾切除
 alopecia		[n]<<medical>>秃顶
 dementia		[n]痴呆
 metastasize		[v]<<medical>>转移
-ex vivo surgery	[n]体外手术
-vagal nerve		[n]迷走神经
+ex vivo surgery	[n]<<medical>>体外手术
+vagal nerve		[n]<<medical>>迷走神经
 congenital tricuspid atresia		[n]<<medical>>先天性三尖瓣闭锁
 uremia			[n]<<medical>>尿毒症
 whiplash		[n]<<medical>>扭伤
@@ -2205,7 +2214,7 @@ sternum			[n]<<medical>>胸骨
 sternotomy		[n]<<medical>>胸骨切开术
 pericardial		[a]<<medical>>心包的
 pericardium		[n]<<medical>>心包，心包膜
-locus			[n]确切地点，基因座
+locus			[n]确切地点，<<genetics>>基因座
 curate			[n]助理牧师；[v]操持展出
 bone up			[v]抓紧复习，刻苦读书
 buttoned-up		[a]沉默寡言的，不外露的，羞怯的
@@ -2214,7 +2223,6 @@ rile			[v]激怒
 proprietary		[n][a]所有权，所有人
 bamboozle		[v]欺骗，使迷惑
 kook			[n]怪人
-fare			[v]经营
 sour on			[v]厌恶，没有好感
 hakarl			[n]冰岛干鲨
 dredge			[v]疏浚，挖掘，打捞
@@ -2607,7 +2615,7 @@ skewer			[n]烤肉叉子；[v]刺穿
 planarian		[n]<<biology>>
 at a loss		
 zeitgeist		[n]时代思想，时代精神
-reel			
+reel			[n]可以回转的设备，如钓鱼线、电影胶卷；[v]卷起；一圈一圈转；暴力混乱地表现；摇摆或撤回（对一击的反应）；不稳定地走；[n]一种苏格兰高地的舞蹈，也可以指这种舞蹈的配乐
 bisection		[n]对分
 backstage		[adv]在后台
 rigging			[n]索具
@@ -3378,8 +3386,12 @@ conform			[v][a]服从环境，符合标准
 conformance		[n]一致性
 prepend			[v]预谋，追加（值）
 intent			[a]专心的，坚决的
+bourne			[n]界限，限制；目标
+do-or-die		[a]非常倔强与实现自己目标的；要么成功要么失败的
 manifest		[n]清单，货单；[v]清楚表明，症状显现，显灵；[a]明显的
-transmogrify	[v]变形
+transmogrify	[v]伴随滑稽效果的改变
+metamorphose	[v]由于魔法或超自然力量而突然转变
+transmute		[v]变成更高级的元素；点石成金
 landmass		[n]大陆
 groom			[v]梳毛，（给动物）刷洗，诱骗（以性侵），照料；[n]马夫
 modulation		[n]调变
@@ -3409,7 +3421,7 @@ gunpoint		[n]枪口
 bartender		[n]酒保
 cardroom		[n]棋牌室
 ricin			[n]<<biology>>蓖麻毒素
-longhand		[n]
+longhand		[n]手写，书法
 extrajudical	[a]未经法律许可的
 penmanship		[n]书法
 flagpole		[n]旗杆
@@ -3418,6 +3430,11 @@ endocrinology	[n]<<medical>>内分泌学
 lipodystrophy	[n]<<medical>>脂肪营养不良
 scrapbook		[n]剪贴簿
 malefic			[a]有害的，邪恶的
+baleful			[a]致命或不好的影响；预示恶魔的
+pernicious		[a]致命的，严重受伤或毁坏的
+deleterious		[a]莫名或不被期望地造成伤害的
+prejudical		[a]造成伤害的；导致不成熟行为的
+anodyne			[a]止痛的；不会造成offend的
 scone			[n]<<dietetics>>英国的一种烤饼
 croissant		[n]<<dietetics>>法式羊角面包
 patisserie		[n]<<dietetics>>法式糕点
@@ -3428,12 +3445,63 @@ bummer			[n]令人失望的局面
 spearhead		[n]矛头，先锋
 footy			[a]愚蠢的
 beeper			[n]传呼机
-overreach		[v]
-editorial		[a]
+overreach		[v]超越；击败自己；通过精巧的方法在买卖中获得好处；（马）后蹄打前蹄；夸大
+overtop			[v]到达...的顶端；超越，高于
+outdistance		[n]在比赛中领先
+eclipse			[v]减少...的重要程度；超越；使变暗
+celestial		[a]与天堂或神有关的；与天空有关的；超凡脱俗的；[n]神秘的存在；中国人
+Elysian			[a]赐福的，令人愉悦的
+empyreal		[a]（地方）理想的
+empyrean		[n][a]苍天；理想的地方；充满光与火的圣地
+olympian		[a]好像生活在高山上一样的
+supernal		[a]从天而来的；令人愉悦的；天空的
+bang-up			
+blue-chip		
+blue-ribbon		
+boffo			
+bonny			
+corking			
+dynamite		
+gangbusters		
+first-string	
+gilt-edged		
+gone			
+groovy			
+high-class		
+jim-dandy		
+numero uno		
+par excellence	
+peachy			
+peachy keen		
+sensational		
+topflight		
+top-shelf		
+topping			
+unsurpassed		
+chthonic		[a]冥界的，地狱的
+plutonian		[a]冥界的，地狱的
+sulfurous		[a]冥界的，地狱的
+Tartarean		[a]冥界的，地狱的
+Tartarus		[n]<<mythology>><<Greek>>Hades用来惩罚邪恶者的地方
+Cimmerian		[a]非常灰暗或抑郁的
+dreich			[a]<<Scottish>>无生机的
+elegiac			[a]挽歌的，压抑的
+funereal		[a]葬礼的，庄严的
+godforsaken		[a]偏远的；可怜被忽视的
+saturnine		[a]性情冷漠迟缓的；有讽刺态度的；抑郁的
+sepulchral		[a]葬礼的
+sepulchre		[n]墓碑；祭坛中举行的宗教仪式；[v]<<archaic>>埋葬
+heartwarming	[a]激动人心的，令人愉悦的
+outdo			[v]击败；表现更优
+outgun			[v]火力压制；击败
+outmatch		[v]被证明更优秀
+outshine		[v]更耀眼；超越
+outstrip		[v]比...更快或更远；领先于
+editorial		[a]编辑的，评论的
 let it slide	让它过去
 waterfront		[n]水边，海滨
 phallus			[n]<<anatomy>>阴茎
-induction		[n]归纳，电磁感应
+induction		[n]归纳，<<physics>>电磁感应
 chapfallen		[a]沮丧的
 urethra			[n]<<anatomy>>尿道
 omentum			[n]<<anatomy>>网膜
@@ -3449,12 +3517,12 @@ glioblastoma	[n]<<medical>>恶性胶质瘤
 sonnet			[n]十四行诗
 splenectomy		[n]<<medical>>脾切除
 laparotomy		[n]<<medical>>剖腹手术
-sharpie			[n]
+sharpie			[n]平底帆船；狡猾的人
 unwavering		[a]不动摇的
 Oliver Twist	雾都孤儿
 electrolyte		[n]电解液
 arrhythmia		[n]<<medical>>心律失常
-proactive		[a]
+proactive		[a]前摄的（前一活动中的因素对后一活动造成影响的）；有前瞻性的
 lanolin			[n]羊毛脂
 mitral valve replacement		[n]<<medical>>二尖瓣置换术
 clavicle		[n]<<anatomy>>锁骨
@@ -3463,8 +3531,8 @@ bummed			[a]不高兴的，沮丧的，烦恼的
 jack up			用千斤顶顶起
 vasopressin		[n]<<medical>>后叶加压素
 bluegill		[n]<<biology>>
-nepotism		[n]<<mathematics>>裙带关系，任人唯亲
-orthogonal		[a]正交的
+nepotism		[n]裙带关系，任人唯亲
+orthogonal		[a]<<mathematics>>正交的
 cardigan		[n]羊毛衫
 scalp			[n]头皮
 wingman			[n]僚机，边锋
@@ -3472,7 +3540,7 @@ scuttle			[n]
 scuttlebutt		[n]闲聊
 latissmus dorsi	[n]<<anatomy>>背阔肌
 laryngectomy	[n]<<medical>>喉头切开术
-tonic			[n]补药，基音
+tonic			[n]补药；基音
 polyline		[n]折线
 ischemia		[n]<<medical>>局部贫血
 stent			
@@ -3493,7 +3561,7 @@ stay in your lane		不要越线
 decortication	[n]剥皮，去皮质术
 peritonsillar	[a]<<medical>>扁桃体周围的
 medullary sponge kidney		[n]<<medical>>海绵肾
-antimetic		[a][n]止吐的
+antimetic		[a][n]<<medical>>止吐的
 reinstate		[v]使恢复
 mitosis			[n]<<biology>>有丝分裂
 telomere		[n]<<biology>>染色体端粒
@@ -3508,11 +3576,11 @@ homologue		[n]同系物，同源物
 nematode		[n][a]<<biology>>线虫
 underfoot		
 expressly		[adv]清楚，明白地，特别地
-hyphema			[n]眼睛充血
+hyphema			[n]<<medical>>眼睛充血
 entrapment		[n]使陷入
 riveted			[a]铆接的，结婚的
 stapler			[n]订书机
-thrombosis		[n]血栓
+thrombosis		[n]<<medical>>血栓
 procession		[n]队伍，列队
 casket			[n]棺材
 stilt			[n]高跷，支撑物
@@ -3595,7 +3663,7 @@ flashy			[a]浮华的，炫耀的
 bursitis		[n]<<medical>>黏液囊炎
 impinge			[v]撞击，妨碍
 situs inversus	[n]<<medical>>内脏反位
-botox			[n]肉毒杆菌
+botox			[n]<<medical>>肉毒杆菌
 hemifacial		[a]<<medical>>半面的
 seroma			[n]<<medical>>血肿块
 pretzel			[n]<<dietetics>>一种脆饼干
@@ -3620,9 +3688,9 @@ turnpike		[n]高速公路收费站
 tollgate		[n]收费站
 boulevard		[n]大马路
 transoral fundoplication		
-ochre			[n]赭石，赭色
-turmeric		[n]姜黄
-peony			[n]牡丹
+ochre			[n]<<colour>>赭石，赭色
+turmeric		[n]<<colour>>姜黄
+peony			[n]<<botany>>牡丹
 rebuff			[v]果断回绝，强烈批评
 snub			[v]反对，通过突然一转检查，抑制，掐灭
 spelunker		[n]洞穴探险者
@@ -3637,9 +3705,9 @@ ridicule		[v]（嘲笑）咂舌声
 fusty			[a]守旧的，保守的，发霉的
 viridity		[n]常绿性，草或树叶的颜色，天真无邪
 highfalutin		[a]夸张的，自大的
-viridis			[n]翠绿色
-verdant			[a]翠绿的，没有经验的
-verdancy		[n]翠绿，幼稚
+viridis			[n]<<colour>>翠绿色
+verdant			[a]<<colour>>翠绿的，没有经验的
+verdancy		[n]<<colour>>翠绿，幼稚
 breviary		[n]摘要，每日祈祷书
 retronym		[n]返璞词
 infighting		[n]暗斗，近战
@@ -3648,73 +3716,90 @@ equate			[v]等同，使相等
 transvaluation	[n]重新评估
 irredeemable	[a]无可救药的
 dermatology		[n]皮肤科
-backlash		
-harbinger		
-supremacist		
-airlift			
-vapid			
-palooza			
-loopy			
-positivity		
-craniotomy		
+backlash		[n]突然向后的动作或反应；对近期发生的政治或社交活动的强烈反感；钓鱼线上纠缠在一起的部分
+harbinger		[n]预示将来事件的东西，预兆；先驱；[v]预言，警告...的来临
+outrider		[n]骑马的参赛者；人或车的护卫队；先驱
+supremacist		[n]种族主义的拥护者
+airlift			[n]从其他方式不可达的空运乘客或货物的系统
+vapid			[a]缺乏生机、趣味或风格，平淡的
+palooka			
+loopy			[a]循环的；疯狂的，奇怪的
+positivity		[n]正确
+craniotomy		[n]<<medical>>开颅手术
 envision		[v]自己想象出一幅画面
-engorge			
-duodenum		
-pontine			
-forage			
+engorge			[v]充血；狼吞虎咽
+duodenum		[n]<<anatomy>>十二指肠
+pontine			[a]<<medical>>脑桥的
+forage			[n]放牧用的食物；寻找补给品；[v]寻找食物；掠夺；rummage
 panty police	
-prawn			
-certifiably		
-over-torque		
+prawn			[n]<<dietetics>>龙虾
+langoustine		[n]<<dietetics>>小龙虾
+crustacean		[n]<<biology>>甲壳纲
+certifiable		[a]合格的；精明的，不虚假的；疯狂的
+pukka			[a]真实的；上等的
+sure-enough		[a]真实的，事实的
 tetanus			
-saltine			
-washcloth		
-amortize		
-colostomy		
-imperceptibly	
-denude			
-wuss			
+saltine			[n]<<dietetics>>撒盐饼干
+washcloth		[n]用于洗脸和洗手的毛巾（facecloth，washrog）
+amortise		[v]分期偿还；逐渐减少某资源的价值
+colostomy		[n]<<medical>>结肠连接术
+imperceptible	[a]非常细微的，容易被忽视的
+denude			[v]剥夺很重要的东西；清除地表覆盖物以使地面裸露
+wuss			[n]<<informal>>懦弱的人
 periosteal elevator		
-outreach		
+outreach		[v]超越；通过骗术优于；[n]向外够的行为；外延
 salmonella		
-hairball		
-grovel			
-insufferable	
-speedo			
+hair ball		[n]掉毛动物舔毛而在胃中形成的头发团
+grovel			[v]爬；下跪；低贱自己的身份；跌落
+subservience	[n]谄媚
+insufferable	[a]不可忍受的
+insupportable	[a]不可忍受的；不能证实的
+speedo			[n]<<British>>测速仪
+speedometer		[n]测速仪，里程仪
+tachometer		[n]测速仪
+odometer		[n]里程仪
 at rounds		
-meatloaf		
-groundbreaking	
-per se			
-disservice		
-lavage			
-cochlear		
-ode				
-paycheck		
-awol			
-filch			
-acidotic		
-oleaginous		
-gushy			
-hagiographic	
-fulsome			
-unctuous		
-sea change		
+meat loaf		[n]<<dietetics>>长条烤肉
+groundbreaking	[a]介绍新想法或新方法的
+per se			<<Latin>>自然地
+perse			[a]<<colour>>蓝灰色，类似靛色
+disservice		[n]伤害，不友好或伤害性的行为
+lavage			[n]<<medical>>（对器官的）冲洗
+cochlea			[n]<<anatomy>>耳蜗
+ode				[n]颂歌；致敬
+paycheck		[n]工资
+awol			[a][adv]无通知缺席
+filch			[v]经常小偷小摸		
+oleaginous		[a]油乎乎的；谄媚的
+gushy			[a]谄媚的
+hagiographic	[a]谄媚的
+hagiography		[n]圣人或受尊敬的人的生平；疯狂崇拜圣人事迹
+fulsome			[a]过多的；数量达的；美学、道德或一般性offensive；超过好的标准的；过分谄媚的
+unctuous		[a]谄媚的
+sea change		[n]一个很大的转变
 ratchet			
-sadist			
-nativization	
-coefficient		
-audit			
-palpate			
-hoise			
-retroym			
-petard			
-aslant			
+sadist			[n]以他人受苦为乐的人
+coefficient		[n]<<mathematics>>系数
+audit			[n]听证会；[v]不期望正式证明地听课
+palpate			[v]<<medical>>通过触觉检查
+hoise			[v]举起
+hoist with/by one's own petard		搬石头砸自己的脚
+petard			[n]用于定向爆破的炸药；声音非常大的火药
+report			[n]爆炸声
+aslant			[prep][a][adv]倾斜
+oblique			
+off-kilter		
+slantwise		
 atilt			
 lopsided		
 listing			
 kilter			
 tipping			
-escapade		
+escapade		[n]不同于传统做法的冒险行为
+capriccio		
+practical joke	
+roguery			
+shavie			[n]<<Scottish>>
 interleave		
 pledget			
 stoned			[a]因吸毒或醉酒而精神恍惚的，极度兴奋的
@@ -3734,13 +3819,12 @@ draining		[a]非常疲惫的
 rodeo			[n][v]竞技表演
 on the loose	逍遥法外
 on the level	老实说
-c-spine			
 cervical spine	[n]<<anatomy>>颈椎
 subluxation		[n]<<medical>>半脱位
 headcount		[n]总人数
 aboveboard		[a][adv]正大光明地
 in the long run	长远来说
-shish kebab		烤羊肉串
+shish kebab		[n]<<dietetics>>烤羊肉串
 regurgitate		[v]使回流，反刍
 epiglottis		[n]<<anatomy>>会厌软骨
 gonorrhea		[n]淋病
@@ -3768,7 +3852,7 @@ straitjacket	[n]紧身衣
 excitable		[a]易激动的，易怒的
 probity			[n]正直
 bootless		[a]无用的，无利可图的，无益处的
-prune			[v]删除，减少，修剪；[n]深紫红色，傻瓜
+prune			[v]删除，减少，修剪；[n]<<colour>>深紫红色，傻瓜
 quick-witted	[a]机制灵敏的
 dissemble		[v]掩饰，假装
 proscribe		[v]剥夺权利，禁止
@@ -3778,7 +3862,7 @@ milkshake		[n]奶昔
 urinal			[n]尿壶，小便器
 daredevil		[n][a]铤而走险的人
 upbeat			[n]乐观的，积极向上的
-sarcoma			[n]肉瘤
+sarcoma			[n]<<medical>>肉瘤
 dyskinesia		[n]<<medical>>运动障碍
 unreasonable	[a]不可理喻的
 warpath			[n]敌对情绪
@@ -3789,14 +3873,14 @@ tingle			[n][v]刺痛
 prophylaxis		[n]<<medical>>
 sourpuss		[n]讨人厌的人
 pulmonale		[a]<<medical>>肺的
-ectopic			[a]异位的
+ectopic			[a]<<medical>>异位的
 casserole		[n]一种食物的容器
 derriere		[n]臀部
 herpes			[n]
 neanderthal		[n]像野人一样的人
 poufy			
 mistletoe		[n]<<botany>>(Visucum album of the family Loranthaceae, the mistletoe family)
-ramekin			[n]用于准备做奶酪的用模具或贝壳烘焙的面包渣或鸡蛋
+ramekin			[n]<<dietetics>>用于准备做奶酪的用模具或贝壳烘焙的面包渣或鸡蛋
 wildflower		[n]野花
 caroler			[n]唱圣歌的人
 rainmaker		[n]通过人工方式求雨的人
@@ -3826,7 +3910,7 @@ phalange		[n]<<anatomy>>指骨，趾骨
 shortcake		[n]<dietetics>脆而未加糖的饼干
 escargot		[n]用作食物的蛇
 humet			[n]
-fess			
+fess			[v]供人，坦白
 xiphoid			[n][a]剑状，剑突
 umbilicus		[n]<<medical>>脐
 meltdown		[n]崩溃，灾难，彻底垮台
@@ -3947,7 +4031,7 @@ bitumen			[n]沥青
 seepage			[n]泄露，泄露量
 uninspired		[a]缺乏灵感或源头的
 ouster			[n]驱逐，罢黜，剥夺
-radicalize		[v]使极端化
+radicalise		[v]使极端化
 skimmer			[n]回收车
 draconian		[a]严厉的
 gelatinize		[v]使成凝胶状，涂凝胶
@@ -3965,28 +4049,28 @@ mindset			[n]感情倾向，精神状态
 watershed		[n]流域，分水岭，（用在名词前）转折点
 loofah			[n]<<biology>>丝瓜，用丝瓜做的搓澡巾
 dopamine		[n]<<biochemistry>>多巴胺
-suitor			[n]求婚者，请愿者，起诉人
+suitor			[n]求婚者；请愿者；起诉人
 misrepresented	[a]不如实陈述的
 zilch			[n][a]零
 bric-a-brac		[n]有装饰或情感价值的常见小东西的收集
 naturopath		[n]自然疗法（不适用药物和手术）
 gracilis		
-osseointegrated	[v]骨结合
-wiry			[a]柔韧的，（声音）像金属丝振动的，强壮有力的
+osseointegrated	[v]<<medical>>骨结合
+wiry			[a]柔韧的；（声音）像金属丝振动的；强壮有力的
 sinewy			[a]强壮的，硬的
-sinew			[n]腱，力量，主要支持力量
+sinew			[n]腱；力量，主要支持力量
 mainstay		[n]支柱
 foremast		[n]前桅
 beeline			[n]直线；[v]走直线去
 kiosk			[n]亭（卖报纸摊等用的地方），提供服务信息的小终端，公用凉亭
 gazebo			[n]有顶、四面敞开的凉亭
 belvedere		[n]欣赏风景用的凉亭
-cupola			[n]圆形拱顶（通常置于圆形底座上的圆形拱顶，构成屋顶或天花板），建在屋顶上的小建筑，用于在铸造厂熔化铁的圆筒形熔炉，火车车位车顶上凸起的观察哨站
+cupola			[n]圆形拱顶（通常置于圆形底座上的圆形拱顶，构成屋顶或天花板）；建在屋顶上的小建筑；用于在铸造厂熔化铁的圆筒形熔炉；火车车位车顶上凸起的观察哨站
 cylindrical		[a]圆柱形的
 tuyere			[n]股风口
 caboose			[n]船上的厨房，供火车乘务员用的安装在后面的火车车厢，尾随者，臀部
-harlequin		[n]丑角，纹理额杂色图案
-variegated		[a]杂色的，富于变化的
+harlequin		[n]丑角；纹理额杂色图案
+variegated		[a]杂色的；富于变化的
 manhole			[n]用于让人进入地下或封闭结构的孔
 blowtorch		[n]吹管（燃烧器一种小型燃烧器，具有通过空气或氧气的喷射来加强燃烧的装置，通常包括一个由手动泵加压的燃料箱，尤用于管道）
 newswire		[n]新闻专线
@@ -3998,7 +4082,7 @@ sicilian		[a][n]西西里的
 reliance		[n]信赖，相信的人或物
 bewilder		[v]使迷惑，使不知所措
 metalworker		[n]金属加工工人
-pantomime		[n][v]手势，哑剧
+pantomime		[n][v]手势；哑剧
 mime			[n]哑剧
 bullwhip		[n]生牛皮长鞭
 mortifying		[a]引起强烈羞耻或尴尬的
@@ -4015,7 +4099,7 @@ studly			[a]有男子气概的
 interchangeable	[a]可互换的
 ante			[n]赌注
 rant about		大吼，斥责
-moderator		[n]仲裁人，解调人，减速剂
+moderator		[n]仲裁人，解调人；减速剂
 corndog			[n]<<dietetics>>玉米热狗
 aglow			[a]发红的，暖色调的，容光焕发的
 levy			[n][v]征收，征兵，征税
@@ -4390,7 +4474,7 @@ meddle			[v]管闲事，干预
 meddlesome		[a]倾向于干预的，爱管闲事的
 cogent			[a]有说服力的，相关的，有亲和力的
 puerile			[a]年轻的，小孩子的
-jejune			[a]年轻的
+jejune			[a]年轻的；缺乏品味的
 implacable		[a]难以缓和的
 inimical		[a]敌对的，有恶意的
 inhospitable	[a]敌对的，（环境）不提供遮蔽的
@@ -5727,7 +5811,7 @@ protoplasm		[n]<<biology>>由有机或无机物质组成的胶状物，构成细
 plastid			[n]<<biology>>色素体
 chloroplast		[n]<<biology>>叶绿体
 amyloplast		[n]<<biology>>生成和存储淀粉的无色色素体
-starch			[n]淀粉
+starch			[n]淀粉；活跃；呆板正式的风格，正式风格
 organelle		[n]<<biology>>细胞器，细胞质中由特定功能的各种微小结构的总称，包括线粒体、叶绿体、内质网、高尔基体、融媒体、微体等
 nucleus			[n]<<biology>>细胞核
 cytoplasm		[n]<<biology>>细胞质
@@ -6269,7 +6353,6 @@ doldrums		[n]<<plural>>不精神的状态；沉睡咒
 despondency		[n]被鄙视，无望
 disconsolate	[a]不活跃的；被鄙视的，被啜泣的
 doleful			[a]不活跃的；悲伤的
-glum			[a]悲伤的
 heartsick		[a]悲伤的
 onanism			[n]自慰
 onanist			[n]自慰者
@@ -6508,7 +6591,361 @@ retrofit		[v]安装，装饰，增补
 parable			
 tenor			
 shipshape		[a]整齐的
-
+reprise			[n]<<French>><<musical>>乐曲的重复部分；房地产的年费
+recapitulation	[n]<<musical>>再现部；<<biology>>重演；概括
+ontogeny		[n]<<genetics>>
+phylogeny		[n]<<genetics>>
+sublingual		[a]<<medical>>舌下的
+cozen			
+chouse			
+chisel			
+euchre			
+flimflam		
+shortchange		
+thimblerig		
+verve			[n]生机，活跃；精力，能量
+gusto			
+moxie			
+zing			
+zip				
+vim				
+forklift		
+apologia		[n]对自己观点的防御
+bumper			
+fender			
+cocoon			
+lorica squamata	
+Anisakis		
+pitcher			[n]大水缸
+centenary		
+semiotics		
+throe			
+compatriot		
+institution		
+mycoplasma		[n]<<medical>>支原体
+amok			[adv]暴力疯狂的状态；谋杀一样的疯狂状态
+sequester		
+exuberant		
+extricable		
+extrinsic		
+factotum		
+excerpt			
+caucus			
+enthrall		
+attrition		
+hematite		
+hematoblast		
+epistolary		
+engross			
+discombobulate	
+unrelatable		
+fiat			
+flabby			
+stigma			
+hemophilia		
+walkout			
+contraception	
+glaucoma		
+ventricle		
+botulinum		
+gield			
+kleptomania		
+courtesan		
+amaryllis		<<botany>>
+hydrangea		
+hyacinth		
+gladiolus		
+dahlia			
+azalea			
+dogwood			
+redbud			
+hibiscus		
+sage flower		
+petunia			
+bellflower		
+foxglove		
+goldenrod		
+rhododendron	
+forsythia		
+glory of the snow		
+sweet alyssum	
+snapdragon		
+magnolia		
+camellia		
+edelweiss		
+belladona		
+begonia			<<botany>>
+hussy			
+bint			
+manticore		[n]<<mythology>>
+tiller			
+wreak			
+evermore		
+primordinal		
+primogeniture	
+zander			
+coup d'état		[n]<<French>>政变
+tannery			[n]制革厂
+thunk			
+sawbones		
+knoll			
+flagship		
+enthalpy		[n]<<physics>>焓
+lacquey			
+yore			
+jugular			[n]<<medical>>
+mangy			
+alight			
+skit			
+charley horse	
+taxiway			
+flan			[n]<<dietetics>>
+tortoiseshell	
+camphor			
+cockatrice		[n]<<mythology>>
+procumbens		
+betcha			
+gout			
+irascible		
+bloodshot		
+lakeshore		
+lilt			
+woeful			
+orphanage		[n]孤儿院
+octave			[n]八度音；八行诗；十四行诗的前八行
+mayhap			
+slake			
+entrails		[n]肠，内脏
+whisker			
+incipient		
+runty			
+boozer			[n]酒店
+rattrap			
+commoner		
+senile			
+praiseworthy	[a]值得赞颂的
+spyglass		
+arbalist		
+ballista		
+swordplay		
+stanza			
+gratis			
+spackle			
+swill			
+whatsit			
+arachis			[n]<<botany>>落花生
+emmental		[n]<<dietetics>>瑞士多孔奶酪
+nursemaid		[n]育婴女佣
+warbler			
+stunk			
+freebie			[n]赠品
+steak au poivre	[n]<<dietetics>><<French>>
+cut and dry		
+halcyon			
+upheavel		
+walrus			
+trance			
+laguna			
+pheochromocytoma		[n]<<medical>>嗜铬细胞瘤
+statutory		
+reindeer		
+curandera		
+homogamy		[n]<<botany>>雌雄同株
+insulinoma		[n]<<medical>>胰岛瘤
+cowbane			[n]<<botany>>
+dextrose		[n]<<biochemistry>>右旋葡萄糖
+affluenza		[n]富贵病
+genuflect		
+amiodarone		[n]<<chemistry>>
+ahold			
+luchador		[n]<<Spanish>>
+lithotripsy		[n]<<medical>>
+nephrology		[n]<<medical>>
+holistic		
+zonk			
+ayahausca		[n]
+molly			
+polyamory		
+sphincter		
+pronator		
+transvenous		
+basilar			
+clonus			
+ciguatoxin		
+torsade			
+ampulla			
+tympan			
+typanum			
+paraphasia		
+sputum			
+versicolor		
+cannula			
+cannulate		
+corpsman		
+molluscum contagiosum		
+lidocaine		
+binge			
+cricoid			
+lakefront		
+bolus			
+mordant			
+grapevine		
+listless		
+homebody		
+nightlife		
+slouch			
+troponin		
+etomidate		
+complementarity	
+grit			
+tulpa			
+grog			
+haywire			
+nystagmus		[n]<<medical>>
+somatic			[a]<<medical>>
+reassess		
+rhonchi			
+diverticulum	
+cricothyrotomy	
+repress			
+orchiotexy		
+butane			
+mannitol		
+ausculation		
+anaphylaxis		
+worrywart		
+ulna			[n]<<anatomy>>尺骨
+kairo			
+enthansia		[n]安乐死
+witticism		
+playdate		
+cefazolin		
+coccyx			[n]<<anatomy>>
+fusiform		[a]梭形的
+gordita			[a]<<Spanish>>
+quandrant		[n]<<mathematics>>象限
+patella			[n]<<anatomy>>
+reperfusion		
+chorioangioma	[n]<<medical>>绒膜血管瘤
+mammary			[a]<<biology>>哺乳动物的
+falconry		
+falcula			
+faldstool		
+faller			
+falling-out		
+familism		
+famulus			
+fanfaronade		
+fannings		
+far-flung		
+farad			[n]<<physics>>电容单位
+faradism		[n]
+farcie			
+fare			
+fare-you-well	
+frathing		
+fascicular		
+fasciculus		
+fascinator		
+fast-fingered	
+fatalism		
+fathometer		
+fawning			
+featherbrain	
+featheredge		
+featherhead		
+feathering		
+featherpate		
+featherpated	
+featherweight	
+feature-length	
+febrifuge		
+fecula			
+fecundate		
+fee-faw-fum		
+feed-bottle		[n]奶瓶
+feed-tank		[n]给水箱
+feedlot			
+feedstock		
+feedstuff		
+feeler			
+feelingly		
+feldspar		
+felicific		
+felid			
+fell			
+feller			
+fellmonger		
+felo-de-se		
+felsite			
+feminality		
+femineity		
+fen				
+fencible		
+fend			
+fenestrate		
+fenestration	
+Fenian			
+fenland			
+feoff			
+ferdelance		
+fermium			[n]<<chemistry>>
+ferninst		
+ferninster		
+ferrate			
+ferrety			
+ferriage		
+ferric			[a]<<chemistry>>含铁离子的
+ferricyanide	[n]<<chemistry>>铁氰化物
+ferriferous		[a]<<chemistry>>
+ferrite			[n]<<chemistry>>
+ferrochromium	[n]<<chemistry>>
+ferroconcrete	[n]钢筋混凝土
+ferromagnetic	[n][a]铁磁体
+ferronickel		[n]<<chemistry>>镍铁
+ferrophosphorous		[n]<<chemistry>>磷铁
+ferrosilicon	[n]<<chemistry>>硅钢
+ferrous			[a]<<chemistry>>含亚铁离子的
+ferruginous		
+ferrule			
+ferule			
+ferula			
+fescennine		
+fescue			
+festoonery		
+festschrift		
+fetishism		
+fetology		[n]<<medical>>胎儿学
+fetor			
+feudist			
+fevered			
+feverish		
+fewtrils		
+fey				
+pullulate		
+heartsease		
+fictionist		
+fictitious		
+fiddlehead		
+fiddlestick		
+fidelism		
+fieldpiece		
+fieldstrip		
+fieldwork		
+putsch			[n]试图推翻政府通知的秘密行动计划和突然的行动
+booboisie		[n]被政府愚弄的群众
+commissar		[n]确保对共产党忠诚度的军事单位
+cat's meow		[n]被高度尊重的人或事物
+hammer and sickle		[n]共产主义的象征
+headshrinker	[n]精神病医生
+headhunter		[n]
+cover charge	[n]加收的服务费
+mimesis			[n]模仿
+mimicry			[n]模仿；模仿自然物体的外观以迷惑捕食者
+scimitar		
+musqueteer		
+incommode		
+carrotty		
 
 
 
