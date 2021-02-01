@@ -2177,10 +2177,9 @@ compound		[v]组合；用共同决定友好完成；使增加；[a]由多种原�
 premonition		[n]<<medical>>预兆瘤
 meningonia		[n]<<medical>>脑膜瘤
 palliative		[a]<<medical>>缓和的；[n]保守疗法；权宜之计
-ligate			
+ligate			[v]<<medical>>缝合；用化学过程连接
 osteotomy		[n]<<medical>>截骨术
-morselize		
-encase			
+encase			[v]装箱
 insular			[a]孤立的，海岛的，海盗人民的
 blip			[n]雷达上的物体光点
 resuscitate		[v]<<medical>>使复苏，使复兴
@@ -2313,7 +2312,7 @@ astute			[a]狡猾的，诡计多端的
 desiccant		[n][a]干燥剂
 amygdala		[n]扁桃体，杏仁核
 hypnotize		[v]催眠 
-natter			[v]唠叨，瞎扯，抱怨 
+natter			[v]唠叨，瞎扯，抱怨
 nattering		[n]闲聊，唠叨，抱怨
 lonesome		[a]寂寞的，人迹罕至的 
 wedlock			[n]婚姻，已婚状态
@@ -7616,6 +7615,7 @@ temptuous
 mizzen			
 pescaterian		
 outset			
+volley			
 
 
 
